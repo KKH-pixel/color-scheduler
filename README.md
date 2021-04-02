@@ -9,7 +9,7 @@ You can find the github link for this website here:
 https://github.com/KKH-pixel/color-scheduler
 
 And the website can be previewed from github at this link:
-
+https://kkh-pixel.github.io/color-scheduler
 
 ## Screenshot
 ```md
