@@ -1,7 +1,6 @@
 # color-scheduler
 
 ## Description
-
 Daily schedule planner; save your schedule online and plan your day!
 
 ## Installation
@@ -12,6 +11,5 @@ And the website can be previewed from github at this link:
 https://kkh-pixel.github.io/color-scheduler
 
 ## Screenshot
-```md
-![website screenshot](assets/screenshot.png)
-```
+
+![website screenshot](assets/screenshot.PNG)

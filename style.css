@@ -15,6 +15,7 @@ textarea{
 
 .form-control {
   background-color: #97eb19;
+  margin: 0px;
 }
 
 .jumbotron {
@@ -63,14 +64,24 @@ textarea{
 }
 
 .saveBtn {
-  border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+  font-size: x-large;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  margin-left: 0px;
 }
 
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.col-10 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+
