@@ -13,6 +13,10 @@ textarea{
   padding: 10px;
 }
 
+.form-control {
+  background-color: #97eb19;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -22,6 +26,7 @@ textarea{
 }
 
 .description{
+  background-color: greenyellow;
   white-space: pre-wrap;
 }
 
